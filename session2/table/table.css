@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    gap: 50px;
+}
+
+.table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-spacing: 30px;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 20px;
+}

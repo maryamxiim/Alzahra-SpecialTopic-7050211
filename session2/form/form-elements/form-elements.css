@@ -1,0 +1,17 @@
+.form-elements {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+.children {
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
